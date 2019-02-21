@@ -1,0 +1,27 @@
+
+h1{
+  color: #00ff00;
+  text-shadow: 3px 4px #3080ff
+}
+
+h2{
+  color: #ddddff;
+  text-shadow: 3px 4px #0000ff
+}
+
+p{
+  color: #FFFFFF;
+}
+
+body{
+  font-family: "Gill Sans","Gill Sans MT",Calibri,sans-serif;
+  background-image: url("curls.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
